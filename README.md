@@ -9,6 +9,6 @@
 4. also choose a specific repository to be analysed from the list of valid repositories.
 
 ###GitHub api links used: 
-1. https://api.github.com/users/<username>/repos
-2. https://api.github.com/repos/<username>/<reponame>/commits
+1. https://api.github.com/users/<username\>/repos
+2. https://api.github.com/repos/<username\>/<reponame\>/commits
   
