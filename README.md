@@ -1,4 +1,4 @@
-# Title: Dashboard for GitHub repos
+# Title: GitHub Dashboard
 
 ## A streamlit web app that provides interface to connect with GitHub api.
 
