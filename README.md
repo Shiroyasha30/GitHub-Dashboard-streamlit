@@ -1,5 +1,6 @@
 # Title: GitHub Dashboard
 ### A streamlit web app that provides interface to connect with GitHub api.
+created by: Yash Upadhyay, COE-2, 101903036
 
 ## 1. Methodology
 ![methodology diagram](screenshots/methodology.jpg)
