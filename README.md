@@ -2,7 +2,7 @@
 ### A streamlit web app that provides interface to connect with GitHub api.
 
 ## 1. Methodology
-
+![methodology diagram](screenshots/methodology.jpg)
 
 ## 2. Description
 Dataset- Used GitHub api for fetching data
@@ -20,5 +20,9 @@ Using this dashboard, user can :
 ## 4. Live Link
 https://share.streamlit.io/shiroyasha30/github-dashboard-streamlit/main/dashboard.py
 
-## 5. Screenshot of the Interface
+## 5. Screenshots of the Interface
+![interface screenshot](screenshots/1.jpg)
 
+![interface screenshot](screenshots/2.jpg)
+
+![interface screenshot](screenshots/3.jpg)
